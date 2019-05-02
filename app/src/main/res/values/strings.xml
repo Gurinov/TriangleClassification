@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TriangleClassification</string>
+    <string name="save">Save to file</string>
+    <string name="load">Load from file</string>
+    <string name="info">Info</string>
+    <string name="side1">Side 1</string>
+    <string name="side2">Side 2</string>
+    <string name="side3">Side 3</string>
+    <string name="information_for_user">
+        \t Вводите в поля ‘Side 2’, ‘Side 2’, ‘Side 3’ значения длин сторон треугольника. \n
+        \t Нажмите ‘Сlassify’, чтобы определить тип треугольника. \n
+        \t Нажмите ‘Save to file’ для сохранения значений в файл. \n
+        \t Нажмите ‘Load from file’ для загрузки значений из файла. \n
+    </string>
+    <string name="classify">Сlassify</string>
+</resources>
